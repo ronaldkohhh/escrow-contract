@@ -86,7 +86,7 @@ function App() {
       </div>
 
       <div className="existing-contracts">
-        <h1> Existing Contracts </h1>
+        <h1> Existing Transactions </h1>
 
         <div id="container">
           {escrows.map((escrow) => {
